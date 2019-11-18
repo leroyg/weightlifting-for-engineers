@@ -18,11 +18,9 @@ Personally, I have problems with elbow tendonitis and shoulder tightness (too mu
 
 Anyway, I thought that I’d write it down as a snapshot of my current thinking on this stuff. Take it all with a grain of salt: I’m not a health professional and bodies vary a lot from person to person. The ideas here have worked well for me and maybe they can inspire the design of your own program.
 
-Oh, and since a write-up like this isn't complete without some sort of gratuitous before and after pictures, here are some of mine:
+While the point of introducing weightlifting into an engineer's routine isn't dramatic physical transformation, a post like this wouldn't be complete without some gratuitous before and after pictures. Here are some of mine:
 
 ![BeforeAfter](./beforeafter.png)
-
-Really, though, the point of introducing weightlifting into an engineer's routine isn't a dramatic physical transformation. The biggest benefits aren’t things that you can even see: less chronic pain, more comfortable posture, and clearheadedness. Looking better and having a bit more fun with physical activity is just a fringe benefit. 
 
 ## The Routine
 
