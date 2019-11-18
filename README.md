@@ -97,11 +97,11 @@ Any ab work would be fine here (except high repetition crunches; those are usele
 
 Anything that raises your heart rate and kind of sucks is good here. This block is also a chance to sneak in one last accessory movement for problem areas. For example, kettlebell swings to work on hip opening. Here are some things I cycle between:
 
-10 minutes of rowing
-10 minutes of assault bike
-10 minutes of swimming
-100 kettlebell swings
-50 D-Ball cleans then 100 double unders
+* 10 minutes of rowing
+* 10 minutes of assault bike
+* 10 minutes of swimming
+* 100 kettlebell swings
+* 50 D-Ball cleans then 100 double unders
 
 ## Why this Routine is Good for Software Engineers
 
