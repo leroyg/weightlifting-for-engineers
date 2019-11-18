@@ -18,6 +18,12 @@ Personally, I have problems with elbow tendonitis and shoulder tightness (too mu
 
 Anyway, I thought that I’d write it down as a snapshot of my current thinking on this stuff. Take it all with a grain of salt: I’m not a health professional and bodies vary a lot from person to person. The ideas here have worked well for me and maybe they can inspire the design of your own program.
 
+Oh, and since a write-up like this isn't complete without some sort of gratuitous before and after pictures, here are some of mine:
+
+![BeforeAfter](./beforeafter.png)
+
+Really, though, the point of introducing weightlifting into an engineer's routine isn't a dramatic physical transformation. The biggest benefits aren’t things that you can even see: less chronic pain, more comfortable posture, and clearheadedness. Looking better and having a bit more fun with physical activity is just a fringe benefit. 
+
 ## The Routine
 
 I run this routine as a two-day per week program, alternating between A and B workouts.
@@ -123,7 +129,7 @@ Another principle at work in this routine is to use “idiot-proof” movements 
 
 This routine strikes a balance between a pure strength routine and a bodybuilding routine. I think working up to heavy lifts in leg exercises is very fun. Well, “fun”. For upper body movements, I like the higher repetition work of bodybuilding because if feels good on my tendons and joints and feels easier to recover from.
 
-There’s a lot to say about overall programming and mindset for weightlifting, too much for this short write-up. Generally, I would suggest not chasing numbers on your lifts but instead focusing on learning what quality movement looks like and executing it with precision, control, and intensity. Treat your weightlifting as a multi-year project, gradually accumulating progress week over week, not something that you expect to “solve” in ten days or “transform” in a month. To me, the biggest benefits aren’t things that you can even see: less chronic pain, more comfortable posture, and clearheadedness. I’d also suggest aiming to apply about 70% of the effort you possibly could in a given gym session; work hard enough to stimulate your body, but not so hard that you have trouble concentrating later in the day.  
+There’s a lot to say about overall programming and mindset for weightlifting, too much for this short write-up. Generally, I would suggest not chasing numbers on your lifts but instead focusing on learning what quality movement looks like and executing it with precision, control, and intensity. Treat your weightlifting as a multi-year project, gradually accumulating progress week over week, not something that you expect to “solve” in ten days or “transform” in a month. I’d also suggest aiming to apply about 70% of the effort you possibly could in a given gym session; work hard enough to stimulate your body, but not so hard that you have trouble concentrating later in the day.  
 
 One last suggestion is to add some other complementary physical activity to weightlifting. These days I try to take a long fast walk a few times a week. In the past I’ve played tennis, taken swing dancing classes, rock climbed, or done Crossfit classes.
 
