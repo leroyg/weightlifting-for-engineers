@@ -21,6 +21,7 @@ Anyway, I thought that I’d write it down as a snapshot of my current thinking 
 While the point of introducing weightlifting into an engineer's routine isn't dramatic physical transformation, a post like this wouldn't be complete without some gratuitous before and after pictures. Here are some of mine:
 
 ![BeforeAfter](./beforeafter.png)
+![BeforeAfter2](./beforeafter2.png)
 
 ## The Routine
 
