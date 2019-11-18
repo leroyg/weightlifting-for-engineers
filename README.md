@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Recently, I took my buddy Anthony, a Google engineer and beginner weightlifter, through my current gym routine, and was pleasantly surprised to find out that the routine had become quite refined as a “good bang for your buck” program to prevent injuries and counteract bad posture from repetitive computer use. He’s been raving about the life-changing magic of Face Pulls since.
+Recently, I took my buddy Anthony, a Google engineer and beginner weightlifter, through my current gym routine and was pleasantly surprised to find out that the routine had become quite refined as a “good bang for your buck” program to prevent injuries and counteract bad posture from repetitive computer use. He’s been raving about the life-changing magic of Face Pulls since.
 
 It has taken me a few years to get here because so much of the advice online is geared toward maximizing bodybuilding or powerlifting results rather than balancing effort in the gym with serious knowledge work. Most software engineers aren’t looking to obsess about deadlift numbers or start a side business as an underwear model. We want our bodies to feel good for long hacking sessions, not worn out from marathon gym sessions.
 
